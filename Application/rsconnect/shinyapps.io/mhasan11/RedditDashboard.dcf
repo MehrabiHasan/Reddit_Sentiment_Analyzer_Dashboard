@@ -1,0 +1,13 @@
+name: RedditDashboard
+title: RedditDashboard
+username:
+account: mhasan11
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3478773
+bundleId: 4105774
+url: https://mhasan11.shinyapps.io/RedditDashboard/
+when: 1610836502.13685
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
